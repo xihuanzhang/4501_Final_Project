@@ -4,7 +4,7 @@ Despite the past competition between Uber and Yellow Taxi Companies, Uber recent
 # Collaboration
 Xihuan is mainly responsible for the first two parts, data processing and sorting data; Yingxue is mainly responsible for the last two parts, understanding data and visualizing data. All work was doned using the same laptop, and workload was evenly divided.
 
-e064fec: Xihuan Zhang\n
+e064fec: Xihuan Zhang,
 909ddf7: Yingxue Liu
 
 # Group
